@@ -8,5 +8,6 @@ void main()
 	printf("hello~~~~~~~~~~~~~\n");
 	func1();
 	func1();
+	printf("hello world!!");
 }
 
