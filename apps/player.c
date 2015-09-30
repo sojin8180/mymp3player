@@ -5,6 +5,7 @@
 void main()
 {
 	func2();
+	printf("hello~~~~~~~~~~~~~\n");
 	func1();
 	func1();
 }
